@@ -5,8 +5,11 @@ File List:
 StationInformation.lst:
   the location information of the seismic stations used in our study;
   
-/TravleTime:
-  the travel time residual measurements after crustal correction;
+/TravleTime_P:
+  the P-wave travel time residual measurements after crustal correction;
+  
+/TravleTime_S:
+  the S-wave travel time residual measurements after crustal correction;
   
 dVp.nc:
   the Vp perturbation model 
